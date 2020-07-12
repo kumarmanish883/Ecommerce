@@ -1,0 +1,17 @@
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\ClothBazar.Services.dll.config
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\ClothBazar.Services.dll
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\ClothBazar.Services.pdb
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\ClothBazar.DataBase.dll
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\ClothBazar.Entities.dll
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\EntityFramework.dll
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\ClothBazar.DataBase.pdb
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\ClothBazar.DataBase.dll.config
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\ClothBazar.Entities.pdb
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\EntityFramework.xml
+D:\GitProject\Ecommerce\ClothBazar.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitProject\Ecommerce\ClothBazar.Services\obj\Debug\ClothBazar.Services.csprojAssemblyReference.cache
+D:\GitProject\Ecommerce\ClothBazar.Services\obj\Debug\ClothBazar.Services.csproj.CoreCompileInputs.cache
+D:\GitProject\Ecommerce\ClothBazar.Services\obj\Debug\ClothBazar.Services.csproj.CopyComplete
+D:\GitProject\Ecommerce\ClothBazar.Services\obj\Debug\ClothBazar.Services.dll
+D:\GitProject\Ecommerce\ClothBazar.Services\obj\Debug\ClothBazar.Services.pdb
