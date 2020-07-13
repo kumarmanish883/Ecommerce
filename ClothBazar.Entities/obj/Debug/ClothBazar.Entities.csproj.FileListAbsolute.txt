@@ -1,6 +1,5 @@
 D:\GitProject\Ecommerce\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll
 D:\GitProject\Ecommerce\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.pdb
-D:\GitProject\Ecommerce\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csprojAssemblyReference.cache
 D:\GitProject\Ecommerce\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CoreCompileInputs.cache
 D:\GitProject\Ecommerce\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.dll
 D:\GitProject\Ecommerce\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.pdb
